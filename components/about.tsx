@@ -28,10 +28,10 @@ const About = () => {
 
       {/* Display a paragraph with information about the user's background and interests. */}
       <p className="mb-3">
-        My name is Jay Chu, and I am a highly skilled full stack developer with
+        My name is Andres Glovere, and I am a highly skilled full stack developer with
         expertise in AI/ML, web scraping and automation. Residing in the
-        bustling neighborhood of Wanchai, Hong Kong, and a proud graduate of
-        HKU, I bring a unique blend of technical prowess and creative
+        Tallinn, Harjumaa, Estonia, and a proud graduate of
+        Tallinn University of Technology, I bring a unique blend of technical prowess and creative
         problem-solving to every project I undertake. With a passion and a
         team-oriented mindset, I approach challenges with dedication and strive
         to elevate projects to new heights. Let's collaborate and achieve

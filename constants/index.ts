@@ -36,35 +36,35 @@ export const LINKS = [
 
 // External links
 export const EXTRA_LINKS = {
-  linkedin: "https://www.linkedin.com/in/sanidhyy",
-  github: "https://github.com/dreamjet31",
-  telegram: "https://t.me/jwson61",
+  linkedin: "https://www.linkedin.com/in/julian-carter-84a436337",
+  github: "https://github.com/gold-goose",
+  telegram: "https://t.me/andres66",
   resume: "/resume.pdf",
-  email: "jaychu259@gmail.com",
+  email: "juliancarter.softdev@gmail.com",
 } as const;
 
 // Data for work experience
 export const EXPERIENCES_DATA = [
   {
-    title: "Full Stack AI Engineer @ Qupital",
+    title: "Senior Full Stack Engineer @ Inmost",
     description:
-      "Developed and implemented various AI and machine learning solutions such as a product recommendation system, an online chatbot, a blog title generator and an advanced image generator, utilizing technologies like ChatGPT and PyTorch, which led to significant improvements in user engagement, system efficiency, and accuracy of the NLP models; also built a web scraping engine to amass a comprehensive dataset for the company.",
+      "Managed and enhanced a scalable e-commerce platform using React for the front-end and Kotlin for the back-end, incorporating micro front-ends to enhance modularity and reduce load times by 40%. Optimized front-end performance with Progressive Web App (PWA) technologies, service workers, and WebAssembly, leading to a 40% increase in mobile user engagement and offline capabilities.",
     icon: React.createElement(CgWorkAlt),
-    date: "2022.3 - 2024.8",
+    date: "2022.10 - 2024.9",
   },
   {
-    title: "ML Engineer @ Xenyo",
+    title: "Full Stack Developer @ Yalantis",
     description:
-      "Successfully developed advanced models for emotion recognition and speech enhancement, and also designed systems for mask detection and super resolution, significantly improving efficiency and accuracy.",
+      "Developed and maintained GraphQL APIs and implemented GraphQL server solutions with Apollo Client for flexible data retrieval, improving application performance by 55%. Implemented a robust real-time capability leveraging the WebSocket protocol, significantly enhancing the application’s responsiveness and user experience.",
     icon: React.createElement(CgWorkAlt),
-    date: "2018.5 - 2022.2",
+    date: "2020.1 - 2022.9",
   },
   {
-    title: "Junior Developer @ Tai Tong Organic Eco Park",
+    title: "Junior Web Developer @ Omisoft",
     description:
-      "Contributed to projects ranging from an AI-based leaf disease detection system that improved agricultural efficiency by 12%, to various game designs like Tetris using reinforcement learning, and also upgraded the company's landing website.",
+      "Architected and led the development of a high-traffic web application using Python (Django) for the back-end and React with TypeScript for the front-end, achieving a 50% improvement in user engagement through advanced features and a highly interactive UI. Enhanced front-end performance with lazy coding, code splitting, and advanced caching strategies, resulting in a 35% improvement in application load times and overall user satisfaction.",
     icon: React.createElement(CgWorkAlt),
-    date: "2017.5 - 2018.4",
+    date: "2017.6 - 2019.12",
   },
 ] as const;
 
@@ -132,4 +132,4 @@ export const SKILLS_DATA = [
 ] as const;
 
 // Owner name
-export const OWNER_NAME = "Jay Chu";
+export const OWNER_NAME = "Andres Glovere";

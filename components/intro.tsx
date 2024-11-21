@@ -70,7 +70,7 @@ const Intro = () => {
       >
         <b className="font-bold">Hi, this is {OWNER_NAME.split(" ")[0]}.</b>{" "}
         I&apos;m a <b className="font-bold">full-stack developer</b> with{" "}
-        <b className="font-bold">8+ years</b> of experience. I enjoy building{" "}
+        <b className="font-bold">7+ years</b> of experience. I enjoy building{" "}
         <i className="italic">
           web applications, AI engines, and automation/scraping tools
         </i>
