@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Jay Chu",
-  "short_name": "Jay",
-  "description": "Jay is a full-stack developer with 8 years of experience.",
+  "name": "Julian Carter",
+  "short_name": "Julian",
+  "description": "Julian is a full-stack developer with 7 years of experience.",
   "icons": [
     {
       "src": "icons/icon-192x192.png",

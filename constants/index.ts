@@ -38,7 +38,7 @@ export const LINKS = [
 export const EXTRA_LINKS = {
   linkedin: "https://www.linkedin.com/in/julian-carter-84a436337",
   github: "https://github.com/gold-goose",
-  telegram: "https://t.me/andres66",
+  telegram: "https://t.me/julian623",
   resume: "/resume.pdf",
   email: "juliancarter.softdev@gmail.com",
 } as const;
@@ -132,4 +132,4 @@ export const SKILLS_DATA = [
 ] as const;
 
 // Owner name
-export const OWNER_NAME = "Andres Glovere";
+export const OWNER_NAME = "Julian Carter";

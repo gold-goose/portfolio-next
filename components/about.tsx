@@ -28,7 +28,7 @@ const About = () => {
 
       {/* Display a paragraph with information about the user's background and interests. */}
       <p className="mb-3">
-        My name is Andres Glovere, and I am a highly skilled full stack developer with
+        My name is Julian Carter, and I am a highly skilled full stack developer with
         expertise in AI/ML, web scraping and automation. Residing in the
         Tallinn, Harjumaa, Estonia, and a proud graduate of
         Tallinn University of Technology, I bring a unique blend of technical prowess and creative
